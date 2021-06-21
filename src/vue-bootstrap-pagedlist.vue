@@ -48,7 +48,6 @@
 
 <script>
 export default {
-  name: "PagedListWidget",
   props: ["title","subtitle","columns","list","action","pages","labelBack","labelNext"],
   data() {
     return {
