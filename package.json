@@ -1,6 +1,6 @@
 {
   "name": "vue-bootstrap-pagedlist",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "dist/vue-bootstrap-pagedlist.ssr.js",
   "module": "dist/vue-bootstrap-pagedlist.esm.js",
@@ -10,7 +10,7 @@
   "author": "Praesidiarius (https://swissfaucet.io/)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/voorhoede/vue-bootstrap-pagedlist"
+    "url": "https://github.com/swissfaucet/vue-bootstrap-pagedlist"
   },
   "files": [
     "dist/*",
