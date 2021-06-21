@@ -3,7 +3,7 @@ Paged List Widget for huge Lists, based on boostrap-vue
 
 <p align="center">
   <a href="https://www.npmjs.com/package/vue-bootstrap-pagedlist">
-    <img src="https://flat.badgen.net/npm/v/bootstrap-vue" alt="Current version">
+    <img src="https://flat.badgen.net/npm/v/vue-bootstrap-pagedlist" alt="Current version">
   </a>
   <a href="https://getbootstrap.com/docs">
     <img src="https://flat.badgen.net/badge/bootstrap/4.5.x/563d7c" alt="Bootstrap version">

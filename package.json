@@ -1,11 +1,11 @@
 {
   "name": "vue-bootstrap-pagedlist",
-  "version": "1.0.1",
-  "main": "dist/pagedlist.umd.js",
-  "module": "dist/pagedlist.esm.js",
-  "unpkg": "dist/pagedlist.min.js",
+  "version": "1.0.2",
+  "main": "dist/pagedList.umd.js",
+  "module": "dist/pagedList.esm.js",
+  "unpkg": "dist/pagedList.min.js",
   "browser": {
-    "./sfc": "src/pagedlist.vue"
+    "./sfc": "src/pagedList.vue"
   },
   "license": "MIT",
   "devDependencies": {
