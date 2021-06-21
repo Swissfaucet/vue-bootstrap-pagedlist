@@ -1,6 +1,6 @@
 {
   "name": "vue-bootstrap-pagedlist",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
   "main": "dist/vue-bootstrap-pagedlist.ssr.js",
   "module": "dist/vue-bootstrap-pagedlist.esm.js",
@@ -17,8 +17,8 @@
     "src/**/*.vue"
   ],
   "scripts": {
-    "prebuild": "rm -rf dist/",
-    "build": "NODE_ENV=production rollup --c rollup.config.js",
+    "prebuild": "rmdir /s /q dist",
+    "build": "rollup --c rollup.config.js",
     "docs": "run-s docs:*",
     "docs:api": "vuedoc.md src/vue-bootstrap-pagedlist.vue --section 'API' --output docs/v1/readme.md --ignore-data --ignore-methods --ignore-computed",
     "docs:vuepress": "vuepress build docs",
